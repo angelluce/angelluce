@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Angel Lucero
+- 👀 I’m a software developer
