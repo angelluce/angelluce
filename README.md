@@ -10,6 +10,7 @@ I started to study programming in the High School, I was so interested to learn 
 [![Jira](https://user-images.githubusercontent.com/57451983/185803537-75931f60-4e0a-442c-b555-a0e58ba70cf5.png)](https://www.atlassian.com/es/software/jira)
 [![AWS](https://user-images.githubusercontent.com/57451983/185803539-c01dfc60-0a91-4b4a-a45f-d4b7e36881af.png)](https://aws.amazon.com/)
 [![Docker](https://user-images.githubusercontent.com/57451983/185803523-52b668d2-ed6b-4e25-9990-e59e3167d2d6.png)](https://www.docker.com/)
+[![GitHub](https://user-images.githubusercontent.com/57451983/185803522-0dd60469-9f8d-45c4-ba86-fc6c0ea2eb08.png)](https://github.com/)
 
 [![Angular](https://user-images.githubusercontent.com/57451983/185803520-c84d97bf-2383-4899-8020-9a35bd40134d.png)](https://angular.io/)
 [![SpringBoot](https://user-images.githubusercontent.com/57451983/185804168-e2fdb156-d0d1-4a9e-8d6f-24d62c9cb87f.png)](https://spring.io/)
