@@ -1,10 +1,10 @@
-Hi 👋, I’m Angel Lucero
+# Hola 👋, Mi nombre es Angel Lucero
 
-I’m a software developer
+Soy desarrollador de software
 
-I started to study programming in the High School, I was so interested to learn software develepment and data bases. Currently, I’m specialize in web development.
+Empecé a estudiar desarrollo de software cuando estuve en el colegio debido a que me llamaba mucho la atención la creación de aplicaciones y bases de datos, posteriormente me especialicé en desarrollo de software. En la actualidad me dedico a desarrollar aplicaciones web y móviles.
 
-## Skills
+## Habilidades
 
 [![Git](https://user-images.githubusercontent.com/57451983/185803534-436ab37c-1c60-4d03-9d61-efced61b4280.png)](https://git-scm.com/)
 [![Jira](https://user-images.githubusercontent.com/57451983/185803537-75931f60-4e0a-442c-b555-a0e58ba70cf5.png)](https://www.atlassian.com/es/software/jira)
@@ -29,7 +29,7 @@ I started to study programming in the High School, I was so interested to learn 
 [![PostgreSQL](https://user-images.githubusercontent.com/57451983/185803525-34ab55f9-92e7-4de4-95be-4b7f6b547de8.png)](https://www.postgresql.org/)
 [![Oracle](https://user-images.githubusercontent.com/57451983/185803533-1e4f5918-be0c-42f4-9117-9b6e7aaa9e0d.png)](https://www.oracle.com/)
 
-## Social networks
+## Redes sociales
 [![GitHub](https://user-images.githubusercontent.com/57451983/185803522-0dd60469-9f8d-45c4-ba86-fc6c0ea2eb08.png)](https://github.com/angelluce)
 [![Instagram](https://user-images.githubusercontent.com/57451983/185803568-3a2a4444-9208-4e31-9986-5e38b1979940.png)](https://www.instagram.com/angellucero24/)
 
