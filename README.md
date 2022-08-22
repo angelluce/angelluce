@@ -1,10 +1,16 @@
 # Hola 👋, Mi nombre es Angel Lucero
 
-Soy desarrollador de software
 
-Empecé a estudiar desarrollo de software cuando estuve en el colegio debido a que me llamaba mucho la atención la creación de aplicaciones y bases de datos, posteriormente me especialicé en desarrollo de software. En la actualidad me dedico a desarrollar aplicaciones web y móviles.
+Desarrollador de software
 
-## Habilidades
+``📌 Cuenca - Ecuador``  
+
+
+###  
+
+Empecé a estudiar desarrollo de software cuando estuve en el colegio debido a que me llamaba mucho la atención la creación de aplicaciones y las bases de datos, posteriormente me especialicé como desarrollador de software en el [Instituto Superior Tecnológico del Azuay](https://www.tecazuay.edu.ec/). En la actualidad me dedico a desarrollar aplicaciones web y móviles.
+
+## Conocimientos
 
 [![Git](https://user-images.githubusercontent.com/57451983/185803534-436ab37c-1c60-4d03-9d61-efced61b4280.png)](https://git-scm.com/)
 [![Jira](https://user-images.githubusercontent.com/57451983/185803537-75931f60-4e0a-442c-b555-a0e58ba70cf5.png)](https://www.atlassian.com/es/software/jira)
