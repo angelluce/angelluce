@@ -20,7 +20,7 @@ Empecé a estudiar desarrollo de software cuando estuve en el colegio debido a q
 ![Angular](https://user-images.githubusercontent.com/57451983/186953226-91772a35-0729-4263-83ee-8c20f8b26f16.png)
 ![SpringBoot](https://user-images.githubusercontent.com/57451983/186953198-1ec0a608-be56-46d8-9d4c-60f09163e27c.png)
 ![Ionic](https://user-images.githubusercontent.com/57451983/186953224-7af43669-5f08-4b7f-9fc1-bc3d2e4eaad5.png)
-![Flutter](https://user-images.githubusercontent.com/57451983/185804166-9ff5156d-50a2-4192-b96f-201213b76523.png)
+![Flutter](https://user-images.githubusercontent.com/57451983/186958677-fe1c3bfa-c32d-4c16-901c-175d52d325a9.png)
 
 ![HTML](https://user-images.githubusercontent.com/57451983/186953221-0ec4c0af-ea82-4ac6-b2e8-13420a2101a6.png)
 ![CSS](https://user-images.githubusercontent.com/57451983/186953219-ba34f089-a916-4e07-a99a-4fc48ccfd39c.png)
