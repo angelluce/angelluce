@@ -12,31 +12,30 @@ Empecé a estudiar desarrollo de software cuando estuve en el colegio debido a q
 
 ## Conocimientos
 
-[![Git](https://user-images.githubusercontent.com/57451983/185803534-436ab37c-1c60-4d03-9d61-efced61b4280.png)](https://git-scm.com/)
-[![Jira](https://user-images.githubusercontent.com/57451983/185803537-75931f60-4e0a-442c-b555-a0e58ba70cf5.png)](https://www.atlassian.com/es/software/jira)
-[![Docker](https://user-images.githubusercontent.com/57451983/185803523-52b668d2-ed6b-4e25-9990-e59e3167d2d6.png)](https://www.docker.com/)
-[![AWS](https://user-images.githubusercontent.com/57451983/185803539-c01dfc60-0a91-4b4a-a45f-d4b7e36881af.png)](https://aws.amazon.com/)
+![Git](https://user-images.githubusercontent.com/57451983/186953192-066082e8-436d-40b7-a95c-b6066c2eac8b.png)
+![Jira](https://user-images.githubusercontent.com/57451983/186953232-e11636ae-25e7-490f-b6a1-60b691ec5749.png)
+![Docker](https://user-images.githubusercontent.com/57451983/186953230-edcd4adf-656e-490d-a697-3518e9374601.png)
+![AWS](https://user-images.githubusercontent.com/57451983/186953229-e2d84b17-f5e7-49c9-9d42-6fc8b4ab7ee4.png)
 
-[![Angular](https://user-images.githubusercontent.com/57451983/185803520-c84d97bf-2383-4899-8020-9a35bd40134d.png)](https://angular.io/)
-[![SpringBoot](https://user-images.githubusercontent.com/57451983/185804168-e2fdb156-d0d1-4a9e-8d6f-24d62c9cb87f.png)](https://spring.io/)
-[![Ionic](https://user-images.githubusercontent.com/57451983/185803521-5961b1cc-5365-40a0-88b5-41b7b6d9377e.png)](https://ionicframework.com/)
-[![Flutter](https://user-images.githubusercontent.com/57451983/185804166-9ff5156d-50a2-4192-b96f-201213b76523.png)](https://flutter.dev/)
+![Angular](https://user-images.githubusercontent.com/57451983/186953226-91772a35-0729-4263-83ee-8c20f8b26f16.png)
+![SpringBoot](https://user-images.githubusercontent.com/57451983/186953198-1ec0a608-be56-46d8-9d4c-60f09163e27c.png)
+![Ionic](https://user-images.githubusercontent.com/57451983/186953224-7af43669-5f08-4b7f-9fc1-bc3d2e4eaad5.png)
+![Flutter](https://user-images.githubusercontent.com/57451983/185804166-9ff5156d-50a2-4192-b96f-201213b76523.png)
 
-[![HTML](https://user-images.githubusercontent.com/57451983/185805507-8566f325-4748-4a14-878e-07315bb1f800.png)](https://developer.mozilla.org/es/docs/Web/HTML)
-[![CSS](https://user-images.githubusercontent.com/57451983/185805557-081e1f2c-7d2e-4303-8379-0dfa185fcc6a.png)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![PrimeNG](https://user-images.githubusercontent.com/57451983/185804167-97953031-8ed1-4073-96ed-0fcd8d4888e7.png)](https://www.primefaces.org/primeng/)
-[![Bootstrap](https://user-images.githubusercontent.com/57451983/185803535-47399c83-32a1-4ec1-9e33-aa876b77e7ed.png)](https://getbootstrap.com/)
+![HTML](https://user-images.githubusercontent.com/57451983/186953221-0ec4c0af-ea82-4ac6-b2e8-13420a2101a6.png)
+![CSS](https://user-images.githubusercontent.com/57451983/186953219-ba34f089-a916-4e07-a99a-4fc48ccfd39c.png)
+![PrimeNG](https://user-images.githubusercontent.com/57451983/186953412-5d21ba70-5271-4cc6-954b-fdc34222fdb1.png)
+![Bootstrap](https://user-images.githubusercontent.com/57451983/186953218-6b880f6b-95e5-4b0a-8b90-f3f11e2ef42d.png)
 
-[![TypeScript](https://user-images.githubusercontent.com/57451983/185803527-9ba9d5d3-9ec9-47f5-a1b1-66d66e69b473.png)](https://www.typescriptlang.org/)
-[![Java](https://user-images.githubusercontent.com/57451983/185803530-eb8f44c0-5833-4812-b0bc-aa9f5672fddf.png)](https://www.java.com/)
-[![JavaScript](https://user-images.githubusercontent.com/57451983/185803532-c698ef61-59d6-471a-8e89-43f67bc27e06.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Python](https://user-images.githubusercontent.com/57451983/185803528-d732e27d-955f-4807-8948-c1e416c0399e.png)](https://www.python.org/)
+![TypeScript](https://user-images.githubusercontent.com/57451983/186953216-f4f3ff40-4e2b-476f-a050-e90cf12dab36.png)
+![Java](https://user-images.githubusercontent.com/57451983/186953210-ae1fb236-5212-4697-bc46-de0e74787009.png)
+![JavaScript](https://user-images.githubusercontent.com/57451983/186953214-10adca82-4401-4d3a-99ff-b111bbb4deff.png)
+![Python](https://user-images.githubusercontent.com/57451983/186953208-459281b7-8e3f-43e5-b3e2-513d85c73665.png)
 
-[![PostgreSQL](https://user-images.githubusercontent.com/57451983/185803525-34ab55f9-92e7-4de4-95be-4b7f6b547de8.png)](https://www.postgresql.org/)
-[![Oracle](https://user-images.githubusercontent.com/57451983/185803533-1e4f5918-be0c-42f4-9117-9b6e7aaa9e0d.png)](https://www.oracle.com/)
+![PostgreSQL](https://user-images.githubusercontent.com/57451983/186953203-af7c7a77-72ca-4d71-83db-7feb7d21bfeb.png)
+![Oracle](https://user-images.githubusercontent.com/57451983/186953202-5450ca06-4084-4714-a3d4-5b495b9ec227.png)
 
 ## Redes sociales
-[![GitHub](https://user-images.githubusercontent.com/57451983/185803522-0dd60469-9f8d-45c4-ba86-fc6c0ea2eb08.png)](https://github.com/angelluce)
-[![Instagram](https://user-images.githubusercontent.com/57451983/185803568-3a2a4444-9208-4e31-9986-5e38b1979940.png)](https://www.instagram.com/angellucero24/)
 
-
+[![Instagram](https://user-images.githubusercontent.com/57451983/186957817-20defcca-4759-419c-a3d6-29e75aa9a3fe.png)](https://www.instagram.com/angellucero24/)
+[_angellucero24_](https://www.instagram.com/angellucero24/)
