@@ -8,7 +8,7 @@ Desarrollador de software
 
 ###  
 
-Empecé a estudiar desarrollo de software cuando estuve en el colegio debido a que me llamaba mucho la atención la creación de aplicaciones y las bases de datos, posteriormente me especialicé como desarrollador de software en el [Instituto Superior Tecnológico del Azuay](https://www.tecazuay.edu.ec/). En la actualidad me dedico a desarrollar aplicaciones web y móviles.
+Empecé a estudiar programación cuando estuve en el colegio debido a que me llamaba mucho la atención la creación de aplicaciones y las bases de datos, posteriormente me especialicé como desarrollador de software en el [Instituto Superior Tecnológico del Azuay](https://www.tecazuay.edu.ec/). En la actualidad me dedico a desarrollar aplicaciones web y móviles.
 
 ## Conocimientos
 
