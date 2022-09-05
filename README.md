@@ -1,4 +1,4 @@
-# Hola 👋, Mi nombre es Angel Lucero
+# Hola 👋, mi nombre es Angel Lucero
 
 
 Desarrollador de software
