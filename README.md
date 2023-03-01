@@ -1,16 +1,18 @@
 # Hola, mi nombre es Angel Lucero
 
 
-Desarrollador de software
+Desarrollador de Software
 
-``📌 Cuenca - Ecuador``  
+```📌 Cuenca - Ecuador```  
+
 
 
 ###  
 
 Empecé a estudiar programación desde el bachillerato debido a que me llamaba mucho la atención la creación de programas y manejo de las bases de datos, posteriormente me especialicé como desarrollador de software. 
 
-En la actualidad me dedico a desarrollar aplicaciones web y móviles de forma profesional.
+En la actualidad me dedico a desarrollar aplicaciones web y móviles de manera profesional.
+
 
 
 ## Conocimientos
@@ -53,13 +55,15 @@ En la actualidad me dedico a desarrollar aplicaciones web y móviles de forma pr
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=003B57)]()
 
 
+
 ## Proyectos
 
-
-| Proyecto    | Repositorio | Producción  | API         |
+| Nombre      | Repositorio | Producción  | Información |
 | :---------: | :---------: | :---------: | :---------: |
-| NASA        | [**GitHub**](https://github.com/angelluce/NASA)   | [**GitHub Pages**](https://angelluce.github.io/NASA/) | [**Información**](https://api.nasa.gov/) | 
-| Rick and Morty | [**GitHub**](https://github.com/angelluce/RickAndMorty)   | [**GitHub Pages**](https://angelluce.github.io/RickAndMorty/) | [**Información**](https://rickandmortyapi.com/) | 
+| NASA APOD   | [**GitHub**](https://github.com/angelluce/NASA)   | [**GitHub Pages**](https://angelluce.github.io/NASA/) | [**API**](https://api.nasa.gov/) | 
+| Rick and Morty | [**GitHub**](https://github.com/angelluce/RickAndMorty)   | [**GitHub Pages**](https://angelluce.github.io/RickAndMorty/) | [**API**](https://rickandmortyapi.com/) |
+| ChatBot WhatsAPP | [**GitHub**](https://github.com/angelluce/ChatbotWhatsApp) | *No disponible* | [**Librería**](https://bot-whatsapp.netlify.app/) |
+
 
 
 ## Redes sociales
@@ -69,5 +73,3 @@ En la actualidad me dedico a desarrollar aplicaciones web y móviles de forma pr
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/angellucero24/)
 
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=26A5E4)](https://t.me/angellucero24)
-
-[![YouTube](https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=FF0000)](https://www.youtube.com/@angelluce24)
