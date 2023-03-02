@@ -9,10 +9,11 @@ Desarrollador de Software
 
 ###  
 
-Empecé a estudiar programación desde el bachillerato debido a que me llamaba mucho la atención la creación de programas y manejo de las bases de datos, posteriormente me especialicé como desarrollador de software. 
+Empecé a estudiar programación desde el bachillerato debido a que me llamaba mucho la atención la creación de programas y manejo de las bases de datos, posteriormente me especialicé como desarrollador de software. Actualmente, me dedico a desarrollar aplicaciones web y móviles de manera profesional.
 
-En la actualidad me dedico a desarrollar aplicaciones web y móviles de manera profesional.
+Me apasiona crear soluciones innovadoras y eficientes para con el uso de herramientas tecnologías resolver problemas y mejorar la vida de las personas. He trabajado en proyectos desafiantes y exitosos en el pasado, y siempre estoy buscando nuevos desafíos para mejorar mis habilidades y aprender cosas nuevas.
 
+En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nuevas formas de mejorar mi trabajo. Siempre estoy buscando oportunidades para colaborar con otros desarrolladores y aprender de ellos.
 
 
 ## Conocimientos
@@ -25,7 +26,7 @@ En la actualidad me dedico a desarrollar aplicaciones web y móviles de manera p
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=FFCA28)]()
 
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=white&labelColor=DD0031)]()
-[![SpringBoot](https://img.shields.io/badge/Spring_Boot-black?style=for-the-badge&logo=springboot&logoColor=white&labelColor=6DB33F)]()
+[![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)]()
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white&labelColor=363636)]()
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=339933)]()
 [![Express JS](https://img.shields.io/badge/Express_JS-black?style=for-the-badge&logo=Express&logoColor=white&labelColor=3E4348)]()
@@ -62,7 +63,7 @@ En la actualidad me dedico a desarrollar aplicaciones web y móviles de manera p
 | :---------: | :---------: | :---------: | :---------: |
 | NASA APOD   | [**GitHub**](https://github.com/angelluce/NASA)   | [**GitHub Pages**](https://angelluce.github.io/NASA/) | [**API**](https://api.nasa.gov/) | 
 | Rick and Morty | [**GitHub**](https://github.com/angelluce/RickAndMorty)   | [**GitHub Pages**](https://angelluce.github.io/RickAndMorty/) | [**API**](https://rickandmortyapi.com/) |
-| ChatBot WhatsAPP | [**GitHub**](https://github.com/angelluce/ChatbotWhatsApp) | *No disponible* | [**Librería**](https://bot-whatsapp.netlify.app/) |
+| ChatBot WhatsApp | [**GitHub**](https://github.com/angelluce/ChatBotWhatsApp) | *No disponible* | [**Librería**](https://bot-whatsapp.netlify.app/) |
 
 
 
