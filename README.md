@@ -29,6 +29,7 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 [![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=000000)]()
 
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=white&labelColor=DD0031)]()
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB)]()
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)]()
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white&labelColor=363636)]()
 [![Express JS](https://img.shields.io/badge/Express_JS-black?style=for-the-badge&logo=Express&logoColor=white&labelColor=3E4348)]()
@@ -36,6 +37,7 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 [![Ionic](https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=Ionic&logoColor=white&labelColor=3880FF)]()
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=AndroidStudio&logoColor=white&labelColor=3DDC84)]()
 [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=02569B)]()
+[![Apache Cordova](https://img.shields.io/badge/Apache_Cordova-black?style=for-the-badge&logo=ApacheCordova&logoColor=white&labelColor=151515)]()
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=4169E1)]()
 [![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=F80000)]()
