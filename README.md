@@ -29,15 +29,15 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 [![Markdown](https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=000000)]()
 
 [![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular&logoColor=white&labelColor=DD0031)]()
-[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB)]()
 [![Spring](https://img.shields.io/badge/Spring-black?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)]()
 [![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoColor=white&labelColor=363636)]()
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white&labelColor=61DAFB)]()
 [![Express JS](https://img.shields.io/badge/Express_JS-black?style=for-the-badge&logo=Express&logoColor=white&labelColor=3E4348)]()
 
 [![Ionic](https://img.shields.io/badge/Ionic-black?style=for-the-badge&logo=Ionic&logoColor=white&labelColor=3880FF)]()
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=AndroidStudio&logoColor=white&labelColor=3DDC84)]()
-[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=02569B)]()
 [![Apache Cordova](https://img.shields.io/badge/Apache_Cordova-black?style=for-the-badge&logo=ApacheCordova&logoColor=white&labelColor=151515)]()
+[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=02569B)]()
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=4169E1)]()
 [![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=F80000)]()
@@ -54,18 +54,18 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 
 ## Proyectos
 
-| Nombre                | Repositorio           | Sitio web             | Recursos              |
-| :-------------------: | :-------------------: | :-------------------: | :-------------------: |
-| NASA APOD             | [**GitHub**](https://github.com/angelluce/NASA) | [**GitHub Pages**](https://angelluce.github.io/NASA/) | [**API**](https://api.nasa.gov/) | 
-| Rick and Morty        | [**GitHub**](https://github.com/angelluce/RickAndMorty) | [**GitHub Pages**](https://angelluce.github.io/RickAndMorty/) | [**API**](https://rickandmortyapi.com/) |
+| Nombre                | Repositorio                                                | Sitio web                                                        | Recursos                                          |
+| :-------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------: | :-----------------------------------------------: |
+| NASA APOD             | [**GitHub**](https://github.com/angelluce/NASA)            | [**GitHub Pages**](https://angelluce.github.io/NASA/)            | [**API**](https://api.nasa.gov/)                  |
+| Rick and Morty        | [**GitHub**](https://github.com/angelluce/RickAndMorty)    | [**GitHub Pages**](https://angelluce.github.io/RickAndMorty/)    | [**API**](https://rickandmortyapi.com/)           |
 | ChatBot WhatsApp      | [**GitHub**](https://github.com/angelluce/ChatBotWhatsApp) | [**GitHub Pages**](https://angelluce.github.io/ChatBotWhatsApp/) | [**Librería**](https://bot-whatsapp.netlify.app/) |
 
 
 
 ## Cursos
 
-| Nombre                | Repositorio           | Sitio web             |
-| :-------------------: | :-------------------: | :-------------------: |
+| Nombre                          | Repositorio                                                  | Sitio web                                                                    |
+| :-----------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------------------------: |
 | Python Basics for Data Science  | [**GitHub**](https://github.com/angelluce/DataScienceCourse) | [**edX, IBM**](https://www.edx.org/es/course/python-basics-for-data-science) | 
 
 
@@ -73,13 +73,12 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 ## Redes sociales
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/angellucero/)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/angellucero24/)
-[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white&labelColor=26A5E4)](https://t.me/angellucero24)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/angel.lu24/)
 
 
 
 </br>
 
 <div align="center">
-  <> Angel Lucero | 2023
+  < >   Angel   Lucero   |   2023   < / >
 </div>
