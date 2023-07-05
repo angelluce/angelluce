@@ -40,6 +40,7 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 [![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=02569B)]()
 
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=white&labelColor=4169E1)]()
+[![Amazon RDS](https://img.shields.io/badge/RDS-black?style=for-the-badge&logo=amazonrds&logoColor=white&labelColor=527FFF)]()
 [![Oracle](https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=Oracle&logoColor=white&labelColor=F80000)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=47A248)]()
 [![SQLite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=white&labelColor=003B57)]()
@@ -49,6 +50,7 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 [![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900)]()
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=white&labelColor=2496ED)]()
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=Firebase&logoColor=white&labelColor=FFCA28)]()
+[![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=Supabase&logoColor=white&labelColor=3FCF8E)]()
 
 
 
@@ -59,6 +61,14 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 | NASA APOD             | [**GitHub**](https://github.com/angelluce/NASA)            | [**GitHub Pages**](https://angelluce.github.io/NASA/)            | [**API**](https://api.nasa.gov/)                  |
 | Rick and Morty        | [**GitHub**](https://github.com/angelluce/RickAndMorty)    | [**GitHub Pages**](https://angelluce.github.io/RickAndMorty/)    | [**API**](https://rickandmortyapi.com/)           |
 | ChatBot WhatsApp      | [**GitHub**](https://github.com/angelluce/ChatBotWhatsApp) | [**GitHub Pages**](https://angelluce.github.io/ChatBotWhatsApp/) | [**Librería**](https://bot-whatsapp.netlify.app/) |
+
+
+
+## Certificaciones
+
+| Nombre                                        | Fecha       |
+| :-------------------------------------------: | :---------: |
+| SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC | Junio, 2023 |
 
 
 
@@ -79,6 +89,4 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 
 </br>
 
-<div align="center">
-  < >   Angel   Lucero   |   2023   < / >
-</div>
+<div align="center">Angel Lucero | 2023</div>
