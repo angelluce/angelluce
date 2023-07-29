@@ -60,7 +60,6 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 | :-------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------: | :-----------------------------------------------: |
 | NASA APOD             | [**GitHub**](https://github.com/angelluce/NASA)            | [**GitHub Pages**](https://angelluce.github.io/NASA/)            | [**API**](https://api.nasa.gov/)                  |
 | Rick and Morty        | [**GitHub**](https://github.com/angelluce/RickAndMorty)    | [**GitHub Pages**](https://angelluce.github.io/RickAndMorty/)    | [**API**](https://rickandmortyapi.com/)           |
-| ChatBot WhatsApp      | [**GitHub**](https://github.com/angelluce/ChatBotWhatsApp) | [**GitHub Pages**](https://angelluce.github.io/ChatBotWhatsApp/) | [**Librería**](https://bot-whatsapp.netlify.app/) |
 
 
 
@@ -68,6 +67,7 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 
 | Nombre                                        | Fecha       |
 | :-------------------------------------------: | :---------: |
+| Fundamentos en Gestión de Proyectos           | Julio, 2023 |
 | SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC | Junio, 2023 |
 
 
@@ -76,7 +76,8 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 
 | Nombre                          | Repositorio                                                  | Sitio web                                                                    |
 | :-----------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| Python Basics for Data Science  | [**GitHub**](https://github.com/angelluce/DataScienceCourse) | [**edX, IBM**](https://www.edx.org/es/course/python-basics-for-data-science) | 
+| Python for Data Science  | [**GitHub**](https://github.com/angelluce/python-for-data-science) | [**IBM**](https://cognitiveclass.ai/courses/python-for-data-science) | 
+| Docker Essentials: A Developer Introduction  | [**GitHub** (info) ](https://github.com/angelluce/docker-essentials) | [**IBM**](https://cognitiveclass.ai/courses/docker-essentials) | 
 
 
 
