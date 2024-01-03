@@ -60,7 +60,7 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 | Juego de la vida      | [GitHub](https://github.com/angelluce/game-of-life)           | [GitHub Pages](https://juego-vida.web.app/)                 | [DOC](https://es.wikipedia.org/wiki/Juego_de_la_vida)      |
 | Liga de fútbol        | [GitHub](https://github.com/angelluce/football-league-web-ui) | [GitHub Pages](https://my-coded-mind.web.app/)              | No disponible                                              |
 | NASA APOD API         | [GitHub](https://github.com/angelluce/NASA)                   | [GitHub Pages](https://angelluce.github.io/nasa/)           | [API](https://api.nasa.gov/)                               |
-| Rick and Morty        | [GitHub](https://github.com/angelluce/RickAndMorty)           | [GitHub Pages](https://angelluce.github.io/rick-and-morty/) | [API](https://rickandmortyapi.com/)                        |
+| Rick and Morty API    | [GitHub](https://github.com/angelluce/RickAndMorty)           | [GitHub Pages](https://angelluce.github.io/rick-and-morty/) | [API](https://rickandmortyapi.com/)                        |
 | Chat GPT API          | [GitHub](https://github.com/angelluce/chatgpt-api)            | [GitHub Pages](https://angelluce.github.io/chatgpt-api/)    | [DOC](https://platform.openai.com/docs/api-reference/chat) |
 
 
