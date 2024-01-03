@@ -6,11 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=BlinkMacSystemFont&weight=200&size=14&duration=4000&pause=1500&color=1B77F0&center=true&vCenter=true&width=244&height=24&lines=Desarrollador+de+software">
 </p>
 
-Empecé a estudiar programación desde el bachillerato debido a que me llamaba mucho la atención la creación de programas y manejo de las bases de datos, posteriormente me especialicé como desarrollador de software. Actualmente, me dedico a desarrollar aplicaciones web y móviles de manera profesional.
+Me apasiona crear soluciones innovadoras y eficientes, mediante herramientas tecnologías resolver problemas y mejorar la vida de las personas. 
+He trabajado en proyectos desafiantes y exitosos en el pasado y siempre estoy buscando nuevos desafíos para mejorar mis habilidades y aprender cosas nuevas.
 
-Me apasiona crear soluciones innovadoras y eficientes para con el uso de herramientas tecnologías resolver problemas y mejorar la vida de las personas. He trabajado en proyectos desafiantes y exitosos en el pasado, y siempre estoy buscando nuevos desafíos para mejorar mis habilidades y aprender cosas nuevas.
-
-En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nuevas formas de mejorar mi trabajo. Siempre estoy buscando oportunidades para colaborar con otros desarrolladores y aprender de ellos.
+En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nuevas formas de mejorar mi trabajo.
 
 
 
@@ -54,31 +53,27 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 
 
 
-## Proyectos
+## Repositorios públicos
 
-| Nombre                | Repositorio                                                | Sitio web                                                        | Recursos                                          |
-| :-------------------: | :--------------------------------------------------------: | :--------------------------------------------------------------: | :-----------------------------------------------: |
-| NASA APOD             | [**GitHub**](https://github.com/angelluce/NASA)            | [**GitHub Pages**](https://angelluce.github.io/NASA/)            | [**API**](https://api.nasa.gov/)                  |
-| Rick and Morty        | [**GitHub**](https://github.com/angelluce/RickAndMorty)    | [**GitHub Pages**](https://angelluce.github.io/RickAndMorty/)    | [**API**](https://rickandmortyapi.com/)           |
+| Nombre                | Repositorio                                                   | Sitio web                                                   | Recursos                                                   |
+| :-------------------: | :-----------------------------------------------------------: | :---------------------------------------------------------: | :--------------------------------------------------------: |
+| Juego de la vida      | [GitHub](https://github.com/angelluce/game-of-life)           | [GitHub Pages](https://juego-vida.web.app/)                 | [DOC](https://es.wikipedia.org/wiki/Juego_de_la_vida)      |
+| Liga de fútbol        | [GitHub](https://github.com/angelluce/football-league-web-ui) | [GitHub Pages](https://my-coded-mind.web.app/)              | No disponible                                              |
+| NASA APOD API         | [GitHub](https://github.com/angelluce/NASA)                   | [GitHub Pages](https://angelluce.github.io/nasa/)           | [API](https://api.nasa.gov/)                               |
+| Rick and Morty        | [GitHub](https://github.com/angelluce/RickAndMorty)           | [GitHub Pages](https://angelluce.github.io/rick-and-morty/) | [API](https://rickandmortyapi.com/)                        |
+| Chat GPT API          | [GitHub](https://github.com/angelluce/chatgpt-api)            | [GitHub Pages](https://angelluce.github.io/chatgpt-api/)    | [DOC](https://platform.openai.com/docs/api-reference/chat) |
 
 
 
 ## Certificaciones
 
-| Nombre                                        | Fecha       |
-| :-------------------------------------------: | :---------: |
-| Fundamentos en Gestión de Proyectos           | Julio, 2023 |
-| SCRUM FUNDATION PROFESSIONAL CERTIFICATE SFPC | Junio, 2023 |
-
-
-
-## Cursos
-
-| Nombre                          | Repositorio                                                  | Sitio web                                                                    |
-| :-----------------------------: | :----------------------------------------------------------: | :--------------------------------------------------------------------------: |
-| Python for Data Science  | [**GitHub**](https://github.com/angelluce/python-for-data-science) | [**IBM**](https://cognitiveclass.ai/courses/python-for-data-science) | 
-| Docker Essentials: A Developer Introduction  | [**GitHub** (info) ](https://github.com/angelluce/docker-essentials) | [**IBM**](https://cognitiveclass.ai/courses/docker-essentials) | 
-
+| Nombre                                          | Empresa               | Fecha       |
+| :---------------------------------------------: | :-------------------: | :---------: |
+| Docker Essentials: A Developer Introduction     | IBM                   | julio, 2023 | 
+| Python for Data Science                         | IMB                   | julio, 2023 |
+| Fundamentos en Gestión de Proyectos             | soylider.net          | junio, 2023 |
+| Scrum Foundation Professional Certificate SFPC  | CertiProf             | junio, 2023 |
+| Finalización del proyecto Argus Risk Management | Futura EC. Cía. Ltda. | abril, 2023 |
 
 
 ## Redes sociales
@@ -90,4 +85,4 @@ En mi tiempo libre, me gusta explorar nuevas tecnologías y experimentar con nue
 
 </br>
 
-<div align="center">Angel Lucero | 2023</div>
+<div align="center">Angel Lucero | 2024</div>
